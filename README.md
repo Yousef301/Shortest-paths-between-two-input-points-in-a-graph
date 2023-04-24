@@ -5,13 +5,13 @@ You will design a solution that will let you find the shortest paths between two
 
 Attached a file containing a list of cities/towns with the following data:
 
-Field 1: Vertex ID of the 1st end of the segment
+    Field 1: Vertex ID of the 1st end of the segment
 
-Field 2: Vertex ID of the 2nd of the segment
+    Field 2: Vertex ID of the 2nd of the segment
+    
+    Field 3: Name of the town
 
-Field 3: Name of the town
-
-Field 4: Distance in Kilometer
+    Field 4: Distance in Kilometer
 
 Please note that all roads are two-ways. Meaning, a record may represent both the roads from feild1 to field2 and from the road from feild2 to feild1.
 
