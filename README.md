@@ -20,3 +20,5 @@ You are required to implement a program to help finding the shortest path betwee
     • Print the route of the shortest distance to a file called “route.txt”
 
     • Exit
+    
+The user should have the ability to find the shortest path of different pair of cities. Meaning, after finding the shortest route between the A1 and B1, the user can enter other cities, B1 and C1, to get the shortest path between them.
